@@ -7,4 +7,4 @@ Implementations
 Collaborators
 
 Hours
-2 (solo pa empezar xd)
+4
