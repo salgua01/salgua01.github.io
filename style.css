@@ -1,0 +1,21 @@
+/*Style sheet for webpage*/
+body{
+	text-align: center;
+	background-color: OldLace;
+	font-family: Constantia;
+}
+
+h1{
+	font-size: 60px;
+	border-style: ridge;
+	border-color: Black;
+	margin-right: 400px;
+	margin-left: 400px;
+}
+
+h2{
+	font-size: 30px;
+	border-style: ridge;
+	border-color: Black;
+	padding: 10px;
+}
