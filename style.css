@@ -1,6 +1,6 @@
 /*Style sheet for webpage*/
 body{
-	background-color: Azure;
+	background-color: Bisque;
 	color: Black;
 	font-size: 18px;
 	font-family: Constantia;
@@ -9,29 +9,52 @@ body{
 }
 
 h1{
-	color: MidnightBlue;
 	font-size: 120px;
 	border-left: ridge;
-	border-color: MidnightBlue;
+	border-color: Black;
 	text-align: left;
 	margin: 0;
 	padding: 0;
 }
-h3{
-	font-size: 30px;
-	color: MidnightBlue;
+
+h2{
+	font-size: 80px;
+	border-left: ridge;
+	border-color: Black;
+	text-align: left;
+	margin: 0;
+	padding: 0;
 }
 
-.button{
-	color: MidnightBlue;
-	font-size: 60px;
-	border-style: solid;
-	border-color: Azure;
+h3{
+	font-size: 30px;
+	color: Black;
+}
+
+h5{
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+img{
 	border-radius: 50%;
-	padding: 5%;
+}
+.button-bg{
+	color: Black;
+	font-size: 30px;
 	display: inline-block;
 	text-align: center;
-	background-color: SlateGrey;
+	padding: 1%;
+	background-color: #ffba66;
+	margin-right: 5%;
+}
+.button-sm{
+	color: Black;
+	font-size: 18px;
+	display: inline-block;
+	text-align: center;
+	padding: 1%;
+	background-color: #ffba66;
 	margin-right: 5%;
 }
 .a{

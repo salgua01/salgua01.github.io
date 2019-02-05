@@ -1,10 +1,5 @@
 "# salgua01.github.io" 
-Implementations
--Correct
-
--Incorrect
-
-Collaborators
-
 Hours
-4
+8
+
+Description: Web page created with only one styling sheet. Three different pages interliked and a link to my LinkedIn profile.
